@@ -8,6 +8,8 @@
 
 咱的目前的学历是带专，专业是软件技术，希望能专升本成功吧。不知道以后是写前端还是写后端学的很杂。
 
+![stars](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=miaomint&theme=default) ![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=miaomint&theme=default)
+
 ## 代码
 
 ### 用过的技术（
@@ -21,8 +23,6 @@
 
 ## 导航
 
-[g8ink](https://g8.ink/)
-[homepage](https://www.ohman.top) 
-[pan](https://pan.ohman.top)
+[g8ink](https://g8.ink/) · [homepage](https://www.ohman.top) · [pan](https://pan.ohman.top)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=miaomint&theme=default)
+
