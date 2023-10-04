@@ -1,4 +1,3 @@
 ## 👋 Hi!
 
-我是 MiaoMint ，你也可以叫我喵薄荷、小喵。是一个小菜喵~
-
+I'm MiaoMint and I'm making some fun stuff. Come along to check it out.
